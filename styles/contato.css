@@ -54,3 +54,13 @@
         height: 44px;
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .contato {
+        padding: 4em 19vw;
+    }
+
+    .contato__email {
+        width: 30%;
+    }
+}
